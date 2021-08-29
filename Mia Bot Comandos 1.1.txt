@@ -1,0 +1,11 @@
+pkg install git
+
+git clone https://github.com/DarkViPs/MiaBot
+
+cd MiaBot
+
+pkg install nodejs
+
+bash install.sh
+
+node .
