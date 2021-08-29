@@ -11,6 +11,7 @@ npm install hxz-api
 npm install textmaker-thiccy
 npm i jimp
 npm i encodeurl
+npm i express
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
 echo "━━━━━━━✦✗✦━━━━━━━━"
